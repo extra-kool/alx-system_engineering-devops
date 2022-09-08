@@ -1,1 +1,1 @@
-Write a script that converts
+write a combination
