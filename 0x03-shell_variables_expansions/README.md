@@ -1,1 +1,1 @@
-Create a script that creates a
+Create a script that
