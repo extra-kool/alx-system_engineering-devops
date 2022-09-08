@@ -1,1 +1,1 @@
-that takes a list of words
+Display lines containing
