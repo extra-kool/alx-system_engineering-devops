@@ -1,1 +1,1 @@
-that displays all users
+that deletes all the regular
