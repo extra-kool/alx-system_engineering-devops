@@ -1,1 +1,1 @@
-deletes all the regular files
+displays the 10 newest files
