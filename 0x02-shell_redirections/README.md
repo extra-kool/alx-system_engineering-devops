@@ -1,1 +1,1 @@
-that deletes all the regular
+counts the number of directories
