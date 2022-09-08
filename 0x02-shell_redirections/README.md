@@ -1,1 +1,1 @@
-Replace all characters
+Create a script
