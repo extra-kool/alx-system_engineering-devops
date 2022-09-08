@@ -1,1 +1,1 @@
-lines in the file /etc/passwd
+Display all lines of the file
