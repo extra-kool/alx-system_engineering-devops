@@ -1,1 +1,1 @@
-Create a script
+Create a script that lists
