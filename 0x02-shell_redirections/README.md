@@ -1,1 +1,1 @@
-shell script that creates a file named
+script that writes into the file ls_cwd_content
