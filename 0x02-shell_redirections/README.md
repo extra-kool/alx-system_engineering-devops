@@ -1,1 +1,1 @@
-script that deletes all the regular files
+script that prints
