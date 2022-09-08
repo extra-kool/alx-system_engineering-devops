@@ -1,1 +1,1 @@
-Display the number
+Display lines containing
