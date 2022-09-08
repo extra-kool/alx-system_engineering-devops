@@ -1,1 +1,1 @@
-Create a script
+reverse its input
