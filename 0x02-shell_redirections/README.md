@@ -1,1 +1,1 @@
-takes a list of words
+that takes a list of words
