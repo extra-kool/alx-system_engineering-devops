@@ -1,1 +1,1 @@
-Display current
+Display current directory
