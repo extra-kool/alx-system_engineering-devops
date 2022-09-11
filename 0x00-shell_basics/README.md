@@ -1,1 +1,1 @@
-Display current directory
+c is fun
